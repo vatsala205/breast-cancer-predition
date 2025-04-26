@@ -103,7 +103,7 @@ Check the `notebooks/exploration.ipynb` for:
 ---
 
 ## 👤 Author
-- [Your Name](https://github.com/your-username)
+- Vatsala
 
 ---
 
